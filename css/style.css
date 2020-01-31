@@ -1,0 +1,10 @@
+#container{
+  border: 2px solid black;
+  width: 700px;
+  height: auto;
+  margin: 0 auto;
+}
+
+#banner img{
+  width: 700px;
+}

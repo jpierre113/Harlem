@@ -8,3 +8,9 @@
 #banner img{
   width: 900px;
 }
+
+nav {
+  display: flex;
+  justify-content: space-around;
+
+}
